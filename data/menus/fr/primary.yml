@@ -9,4 +9,16 @@ items:
   target: "/"
   kind: page
   children: []
+- title: Nous
+  target: "/nous/"
+  kind: page
+  children:
+  - title: Vision
+    target: ''
+    kind: blank
+    children: []
+  - title: L'expert au delà des disciplines
+    target: ''
+    kind: blank
+    children: []
 
