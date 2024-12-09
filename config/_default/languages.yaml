@@ -7,9 +7,14 @@ fr:
   languageCode: fr
   languageName: Français
   params:
-    social:
-      email: >-
-        contact@duvertdanslesrouages.fr
+    contact_details:
+      emails:
+        email:
+          label: >-
+            contact@duvertdanslesrouages.fr
+          value: >-
+            mailto:contact@duvertdanslesrouages.fr
+
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
