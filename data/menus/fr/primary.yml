@@ -5,11 +5,13 @@ items:
   target: "/actualites/"
   kind: page
   children: []
+  path: "/posts"
   file: content/fr/posts/_index.html
 - title: Offre
   target: "/"
   kind: page
   children: []
+  path: "/"
   file: content/fr/_index.html
 - title: Nous
   target: "/nous/"
@@ -23,5 +25,6 @@ items:
     target: ''
     kind: blank
     children: []
+  path: "/pages/nous"
   file: content/fr/pages/nous/_index.html
 
