@@ -4,26 +4,31 @@ items:
 - title: Actualités
   target: "/actualites/"
   kind: page
+  new_tab: false
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Offre
   target: "/"
   kind: page
+  new_tab: false
   children: []
   path: "/"
   file: content/fr/_index.html
 - title: Nous
   target: "/nous/"
   kind: page
+  new_tab: false
   children:
   - title: Vision
     target: ''
     kind: blank
+    new_tab: false
     children: []
   - title: L'expert au delà des disciplines
     target: ''
     kind: blank
+    new_tab: false
     children: []
   path: "/pages/nous"
   file: content/fr/pages/nous/_index.html
