@@ -2,6 +2,11 @@
 
 baseURL: https://duvertdanslesrouages-site.web.deuxfleurs.fr
 
+## OSUNY
+osuny:
+  website:
+    id: 99404d73-0817-4142-8cc0-802d96a9aaed
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
