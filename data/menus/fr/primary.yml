@@ -1,35 +1,88 @@
 ---
 title: Menu principal
 items:
-- title: Actualités
-  target: "/actualites/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/posts"
-  file: content/fr/posts/_index.html
-- title: Offre
-  target: "/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/"
-  file: content/fr/_index.html
-- title: Nous
-  target: "/nous/"
+- title: Coopération territoriale
+  target: "/cooperation-territoriale-1/"
   kind: page
   new_tab: false
   children:
-  - title: Vision
-    target: ''
-    kind: blank
+  - title: Ingénierie de la gouvernance et de la coopération
+    target: "/cooperation-territoriale-1/ingenierie-gouvernance/"
+    kind: page
     new_tab: false
     children: []
-  - title: L'expert au delà des disciplines
-    target: ''
-    kind: blank
+    path: "/pages/cooperation-territoriale-1/ingenierie-gouvernance"
+    file: content/fr/pages/cooperation-territoriale-1/ingenierie-gouvernance/_index.html
+  - title: Facilitation territoriale et animation de concertations
+    target: "/cooperation-territoriale-1/ingenierie-gouvernance-1/"
+    kind: page
     new_tab: false
     children: []
-  path: "/pages/nous"
-  file: content/fr/pages/nous/_index.html
+    path: "/pages/cooperation-territoriale-1/ingenierie-gouvernance-1"
+    file: content/fr/pages/cooperation-territoriale-1/ingenierie-gouvernance-1/_index.html
+  - title: Ludification et intelligence collective
+    target: "/cooperation-territoriale-1/ingenierie-gouvernance-2/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/cooperation-territoriale-1/ingenierie-gouvernance-2"
+    file: content/fr/pages/cooperation-territoriale-1/ingenierie-gouvernance-2/_index.html
+  path: "/pages/cooperation-territoriale-1"
+  file: content/fr/pages/cooperation-territoriale-1/_index.html
+- title: Innovation publique
+  target: "/innovation-publique-1/"
+  kind: page
+  new_tab: false
+  children:
+  - title: Etudes et recherche en sciences sociales
+    target: "/innovation-publique-1/etudes-et-recherche/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/innovation-publique-1/etudes-et-recherche"
+    file: content/fr/pages/innovation-publique-1/etudes-et-recherche/_index.html
+  - title: Design d'innovation publique territoriale
+    target: "/innovation-publique-1/innovation-publique-2/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/innovation-publique-1/innovation-publique-2"
+    file: content/fr/pages/innovation-publique-1/innovation-publique-2/_index.html
+  - title: Evaluation de politiques publiques
+    target: "/innovation-publique-1/evaluation/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/innovation-publique-1/evaluation"
+    file: content/fr/pages/innovation-publique-1/evaluation/_index.html
+  path: "/pages/innovation-publique-1"
+  file: content/fr/pages/innovation-publique-1/_index.html
+- title: Solutions locales
+  target: "/solutions-locales/"
+  kind: page
+  new_tab: false
+  children:
+  - title: Responsabilité territoriale des entreprises (RTE)
+    target: "/solutions-locales/transition-ess-1-1/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/solutions-locales/transition-ess-1-1"
+    file: content/fr/pages/solutions-locales/transition-ess-1-1/_index.html
+  - title: Transition écologique et résilience de l'ESS
+    target: "/solutions-locales/transition-ess/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/solutions-locales/transition-ess"
+    file: content/fr/pages/solutions-locales/transition-ess/_index.html
+  - title: Robustesse des associations environnementales
+    target: "/solutions-locales/transition-ess-1/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/solutions-locales/transition-ess-1"
+    file: content/fr/pages/solutions-locales/transition-ess-1/_index.html
+  path: "/pages/solutions-locales"
+  file: content/fr/pages/solutions-locales/_index.html
 

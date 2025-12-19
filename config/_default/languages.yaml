@@ -2,7 +2,7 @@
 
 fr:
   title: >-
-    Site
+    Du vert dans les rouages
   contentDir: content/fr
   languageCode: fr
   languageName: Français
@@ -15,6 +15,12 @@ fr:
             contact@duvertdanslesrouages.fr
           value: >-
             mailto:contact@duvertdanslesrouages.fr
+      social_networks:
+        linkedin:
+          label: >-
+            duvertdanslesrouages
+          value: >-
+            https://www.linkedin.com/company/duvertdanslesrouages/
 
   taxonomies:
     administrator: administrators
