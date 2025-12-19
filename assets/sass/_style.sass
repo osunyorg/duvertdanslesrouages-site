@@ -1,3 +1,20 @@
+.menu
+    .has-children:not(.upper-menu-i18n, .primary-i18n)
+        .dropdown-menu:not(.is-titled)
+            .nav-level-2
+                @include media-breakpoint-up(desktop)
+                grid-template-columns: repeat(3, 1fr)                
+h1
+    color: $color-dark-green
+.blocks
+    .block-chapter
+        &--accent_background
+            background-color: white
+            .text
+                width: 100% !important
+                .rich-text
+                    @include lead
+                    color: $color-dark-green
 #document-footer
     .container:first-of-type
         justify-content: center
