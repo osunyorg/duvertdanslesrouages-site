@@ -32,6 +32,15 @@ h1
                 display: block
                 text-transform: uppercase
                 color: $color-dark-green
+    .block-pages
+        &--list
+            @include in-page-without-sidebar
+                .block-content 
+                    .top 
+                        grid-column: 1 / 7
+                        // width: columns(6)
+                        + .pages
+                            grid-column: 7 / 13
 #document-footer
     .container:first-of-type
         justify-content: center
