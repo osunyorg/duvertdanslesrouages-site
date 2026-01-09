@@ -82,12 +82,12 @@ items:
       path: "/pages/solutions-locales/transition-ess"
       file: content/fr/pages/solutions-locales/transition-ess/_index.html
     - title: Robustesse des associations environnementales
-      target: "/solutions-locales/transition-ess-1/"
+      target: "/solutions-locales/robustesse-des-operateurs-des-transitions/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/solutions-locales/transition-ess-1"
-      file: content/fr/pages/solutions-locales/transition-ess-1/_index.html
+      path: "/pages/solutions-locales/robustesse-des-operateurs-des-transitions"
+      file: content/fr/pages/solutions-locales/robustesse-des-operateurs-des-transitions/_index.html
     path: "/pages/solutions-locales"
     file: content/fr/pages/solutions-locales/_index.html
 - title: Qui sommes-nous ?
