@@ -97,4 +97,11 @@ items:
   children: []
   path: "/pages/qui-sommes-nous"
   file: content/fr/pages/qui-sommes-nous/_index.html
+- title: Nous contacter
+  target: "/nous-contacter/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/nous-contacter"
+  file: content/fr/pages/nous-contacter/_index.html
 
