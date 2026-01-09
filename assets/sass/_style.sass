@@ -46,13 +46,14 @@ h1
     .block-image
         margin-bottom: 0
 #document-footer
-    .container:first-of-type
-        justify-content: center
-    .container:nth-of-type(2)
-        flex-direction: column-reverse
-        .footer-social
-            margin: 0 auto
-            li
-                margin: 0 $spacing-3
-        .footer-legals
-            margin: 0 auto
+    @include media-breakpoint-up(desktop)
+        .container:first-of-type
+            justify-content: center
+        .container:nth-of-type(2)
+            flex-direction: column-reverse
+            .footer-social
+                margin: 0 auto
+                li
+                    margin: 0 $spacing-3
+            .footer-legals
+                margin: 0 auto

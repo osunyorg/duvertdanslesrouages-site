@@ -11,7 +11,7 @@ params:
     active: true
   logo:
     header: "/assets/images/logo-blanc.svg"
-    footer: "/assets/images/logo-blanc.svg"
+    footer: "/assets/images/logo-carre.svg"
   home:
     head:
       title: site
