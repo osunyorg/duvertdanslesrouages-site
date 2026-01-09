@@ -1,7 +1,7 @@
 ---
 title: Menu principal
 items:
-- title: Nos métiers
+- title: Nos actions
   target: ''
   kind: blank
   new_tab: false
@@ -90,13 +90,13 @@ items:
       file: content/fr/pages/solutions-locales/robustesse-des-operateurs-des-transitions/_index.html
     path: "/pages/solutions-locales"
     file: content/fr/pages/solutions-locales/_index.html
-- title: Notre éco-système coopératif
-  target: "/notre-eco-systeme-cooperatif/"
+- title: Notre éco-système
+  target: "/notre-eco-systeme/"
   kind: page
   new_tab: false
   children: []
-  path: "/pages/notre-eco-systeme-cooperatif"
-  file: content/fr/pages/notre-eco-systeme-cooperatif/_index.html
+  path: "/pages/notre-eco-systeme"
+  file: content/fr/pages/notre-eco-systeme/_index.html
 - title: Nous contacter
   target: "/nous-contacter/"
   kind: page
