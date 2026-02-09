@@ -7,33 +7,33 @@ items:
   new_tab: false
   children:
   - title: Coopération territoriale
-    target: "/cooperation-territoriale-1/"
+    target: "/cooperation-territoriale/"
     kind: page
     new_tab: false
     children:
     - title: Ingénierie de la gouvernance et de la coopération
-      target: "/cooperation-territoriale-1/ingenierie-gouvernance/"
+      target: "/cooperation-territoriale/ingenierie-gouvernance/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/cooperation-territoriale-1/ingenierie-gouvernance"
-      file: content/fr/pages/cooperation-territoriale-1/ingenierie-gouvernance/_index.html
+      path: "/pages/cooperation-territoriale/ingenierie-gouvernance"
+      file: content/fr/pages/cooperation-territoriale/ingenierie-gouvernance/_index.html
     - title: Facilitation territoriale et animation de concertations
-      target: "/cooperation-territoriale-1/ingenierie-gouvernance-1/"
+      target: "/cooperation-territoriale/ingenierie-gouvernance-1/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/cooperation-territoriale-1/ingenierie-gouvernance-1"
-      file: content/fr/pages/cooperation-territoriale-1/ingenierie-gouvernance-1/_index.html
+      path: "/pages/cooperation-territoriale/ingenierie-gouvernance-1"
+      file: content/fr/pages/cooperation-territoriale/ingenierie-gouvernance-1/_index.html
     - title: Ludification et intelligence collective
-      target: "/cooperation-territoriale-1/ingenierie-gouvernance-2/"
+      target: "/cooperation-territoriale/ingenierie-gouvernance-2/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/cooperation-territoriale-1/ingenierie-gouvernance-2"
-      file: content/fr/pages/cooperation-territoriale-1/ingenierie-gouvernance-2/_index.html
-    path: "/pages/cooperation-territoriale-1"
-    file: content/fr/pages/cooperation-territoriale-1/_index.html
+      path: "/pages/cooperation-territoriale/ingenierie-gouvernance-2"
+      file: content/fr/pages/cooperation-territoriale/ingenierie-gouvernance-2/_index.html
+    path: "/pages/cooperation-territoriale"
+    file: content/fr/pages/cooperation-territoriale/_index.html
   - title: Innovation publique
     target: "/innovation-publique/"
     kind: page
