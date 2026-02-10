@@ -39,7 +39,7 @@ items:
     kind: page
     new_tab: false
     children:
-    - title: Etudes et recherche en sciences sociales
+    - title: Etudes et enquêtes en sciences sociales
       target: "/innovation-publique/etudes-et-enquetes/"
       kind: page
       new_tab: false
@@ -67,14 +67,14 @@ items:
     kind: page
     new_tab: false
     children:
-    - title: Responsabilité territoriale des entreprises (RTE)
+    - title: Responsabilité territoriale des entreprises
       target: "/solutions-locales/responsabilite-territoriale/"
       kind: page
       new_tab: false
       children: []
       path: "/pages/solutions-locales/responsabilite-territoriale"
       file: content/fr/pages/solutions-locales/responsabilite-territoriale/_index.html
-    - title: Transition écologique et résilience de l'ESS
+    - title: Transformation écologique de l'ESS
       target: "/solutions-locales/transformation-ess/"
       kind: page
       new_tab: false
