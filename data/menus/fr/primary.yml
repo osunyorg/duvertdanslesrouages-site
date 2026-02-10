@@ -81,7 +81,7 @@ items:
       children: []
       path: "/pages/solutions-locales/transformation-ess"
       file: content/fr/pages/solutions-locales/transformation-ess/_index.html
-    - title: Robustesse des associations environnementales
+    - title: Robustesse des opérateurs des transitions
       target: "/solutions-locales/robustesse-operateurs/"
       kind: page
       new_tab: false
