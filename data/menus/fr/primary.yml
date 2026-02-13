@@ -2,106 +2,157 @@
 title: Menu principal
 items:
 - title: Nos actions
+  slug: nos-actions
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: Coopération territoriale
+    slug: cooperation-territoriale
     target: "/cooperation-territoriale/"
     kind: page
     new_tab: false
     children:
     - title: Ingénierie de la gouvernance et de la coopération
+      slug: ingenierie-de-la-gouvernance-et-de-la-cooperation
       target: "/cooperation-territoriale/ingenierie-gouvernance/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/cooperation-territoriale/ingenierie-gouvernance"
       file: content/fr/pages/cooperation-territoriale/ingenierie-gouvernance/_index.html
     - title: Facilitation territoriale et animation de concertations
+      slug: facilitation-territoriale-et-animation-de-concertations
       target: "/cooperation-territoriale/facilitation-territoriale/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/cooperation-territoriale/facilitation-territoriale"
       file: content/fr/pages/cooperation-territoriale/facilitation-territoriale/_index.html
     - title: Ludification et intelligence collective
+      slug: ludification-et-intelligence-collective
       target: "/cooperation-territoriale/ludification/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/cooperation-territoriale/ludification"
       file: content/fr/pages/cooperation-territoriale/ludification/_index.html
+    descendants_targets:
+    - "/cooperation-territoriale/facilitation-territoriale/"
+    - "/cooperation-territoriale/ingenierie-gouvernance/"
+    - "/cooperation-territoriale/ludification/"
     path: "/pages/cooperation-territoriale"
     file: content/fr/pages/cooperation-territoriale/_index.html
   - title: Innovation publique
+    slug: innovation-publique
     target: "/innovation-publique/"
     kind: page
     new_tab: false
     children:
     - title: Etudes et enquêtes en sciences sociales
+      slug: etudes-et-enquetes-en-sciences-sociales
       target: "/innovation-publique/etudes-et-enquetes/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/innovation-publique/etudes-et-enquetes"
       file: content/fr/pages/innovation-publique/etudes-et-enquetes/_index.html
     - title: Design d'innovation publique territoriale
+      slug: design-d-innovation-publique-territoriale
       target: "/innovation-publique/design-innovation/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/innovation-publique/design-innovation"
       file: content/fr/pages/innovation-publique/design-innovation/_index.html
     - title: Evaluation de politiques publiques
+      slug: evaluation-de-politiques-publiques
       target: "/innovation-publique/evaluation/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/innovation-publique/evaluation"
       file: content/fr/pages/innovation-publique/evaluation/_index.html
+    descendants_targets:
+    - "/innovation-publique/design-innovation/"
+    - "/innovation-publique/etudes-et-enquetes/"
+    - "/innovation-publique/evaluation/"
     path: "/pages/innovation-publique"
     file: content/fr/pages/innovation-publique/_index.html
   - title: Solutions locales
+    slug: solutions-locales
     target: "/solutions-locales/"
     kind: page
     new_tab: false
     children:
     - title: Responsabilité territoriale des entreprises
+      slug: responsabilite-territoriale-des-entreprises
       target: "/solutions-locales/responsabilite-territoriale/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/solutions-locales/responsabilite-territoriale"
       file: content/fr/pages/solutions-locales/responsabilite-territoriale/_index.html
     - title: Transformation écologique de l'ESS
+      slug: transformation-ecologique-de-l-ess
       target: "/solutions-locales/transformation-ess/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/solutions-locales/transformation-ess"
       file: content/fr/pages/solutions-locales/transformation-ess/_index.html
     - title: Robustesse des opérateurs des transitions
+      slug: robustesse-des-operateurs-des-transitions
       target: "/solutions-locales/robustesse-operateurs/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/solutions-locales/robustesse-operateurs"
       file: content/fr/pages/solutions-locales/robustesse-operateurs/_index.html
+    descendants_targets:
+    - "/solutions-locales/responsabilite-territoriale/"
+    - "/solutions-locales/robustesse-operateurs/"
+    - "/solutions-locales/transformation-ess/"
     path: "/pages/solutions-locales"
     file: content/fr/pages/solutions-locales/_index.html
+  descendants_targets:
+  - "/cooperation-territoriale/"
+  - "/cooperation-territoriale/facilitation-territoriale/"
+  - "/cooperation-territoriale/ingenierie-gouvernance/"
+  - "/cooperation-territoriale/ludification/"
+  - "/innovation-publique/"
+  - "/innovation-publique/design-innovation/"
+  - "/innovation-publique/etudes-et-enquetes/"
+  - "/innovation-publique/evaluation/"
+  - "/solutions-locales/"
+  - "/solutions-locales/responsabilite-territoriale/"
+  - "/solutions-locales/robustesse-operateurs/"
+  - "/solutions-locales/transformation-ess/"
 - title: Notre éco-système
+  slug: notre-eco-systeme
   target: "/notre-eco-systeme/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/notre-eco-systeme"
   file: content/fr/pages/notre-eco-systeme/_index.html
 - title: Nous contacter
+  slug: nous-contacter
   target: "/nous-contacter/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/nous-contacter"
   file: content/fr/pages/nous-contacter/_index.html
 
