@@ -1,3 +1,14 @@
+// Not too big on small screens
+html
+    @include media-breakpoint-between(lg, xl)
+        font-size: 80%
+    @include media-breakpoint-between(xl, xxl)
+        font-size: 90%
+
+.hero
+    .content
+        .hero-text
+            margin-top: 0
 .menu
     .has-children:not(.upper-menu-i18n, .primary-i18n)
         .dropdown-menu:not(.is-titled)
@@ -65,6 +76,7 @@ h1
     .hero
         .content
             .hero-text
+                width: columns(10)
                 margin-top: 25vh
     .block-image
         margin-bottom: 0
