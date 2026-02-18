@@ -3,6 +3,7 @@ theme:
   - osuny-plugin-centered-footer
 _merge: deep
 params:
+  plausible: duvertdanslesrouages.fr
   breadcrumb:
     position: after-hero
   summary:
