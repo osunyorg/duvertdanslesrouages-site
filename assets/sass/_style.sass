@@ -42,6 +42,19 @@ h1
                         grid-column: 1 / 7
                         + .pages
                             grid-column: 7 / 13
+    .block-testimonials
+        @include in-page-with-sidebar
+            blockquote
+                position: relative
+                &::before
+                    color: $color-green
+                    content: "“"
+                    font-size: pxToRem(80)
+                    font-style: normal
+                    left: pxToRem(-45)
+                    line-height: 100%
+                    position: absolute
+                    top: pxToRem(4)
 .page__home
     .block-image
         margin-bottom: 0
