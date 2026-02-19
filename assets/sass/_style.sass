@@ -79,8 +79,9 @@ h1
     .hero
         .content
             .hero-text
-                width: columns(10)
                 margin-top: 25vh
+                @include media-breakpoint-up(desktop)
+                    width: columns(10)
     .block-image
         margin-bottom: 0
 
