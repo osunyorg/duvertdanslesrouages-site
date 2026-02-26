@@ -63,18 +63,20 @@ h1
                         + .pages
                             grid-column: 7 / 13
     .block-testimonials
-        @include in-page-with-sidebar
-            blockquote
-                position: relative
-                &::before
-                    color: $color-green
-                    content: "“"
+        blockquote
+            position: relative
+            &::before
+                color: $color-green
+                content: "“"
+                font-size: pxToRem(40)
+                font-style: normal
+                left: pxToRem(-20)
+                line-height: 100%
+                position: absolute
+                top: pxToRem(6)
+                @include media-breakpoint-up(desktop)
                     font-size: pxToRem(80)
-                    font-style: normal
                     left: pxToRem(-45)
-                    line-height: 100%
-                    position: absolute
-                    top: pxToRem(6)
 .page__home
     .hero
         .content
