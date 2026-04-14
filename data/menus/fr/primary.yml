@@ -1,8 +1,8 @@
 ---
 title: Menu principal
 items:
-- title: Nos actions
-  slug: nos-actions
+- title: Nos missions
+  slug: nos-missions
   target: ''
   kind: blank
   new_tab: false
