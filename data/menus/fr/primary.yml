@@ -24,13 +24,13 @@ items:
       file: content/fr/pages/cooperation-territoriale/ingenierie-gouvernance/_index.html
     - title: Facilitation territoriale et animation de concertations
       slug: facilitation-territoriale-et-animation-de-concertations
-      target: "/cooperation-territoriale/facilitation-territoriale/"
+      target: "/cooperation-territoriale/strategie-territoriale/"
       kind: page
       new_tab: false
       children: []
       descendants_targets: []
-      path: "/pages/cooperation-territoriale/facilitation-territoriale"
-      file: content/fr/pages/cooperation-territoriale/facilitation-territoriale/_index.html
+      path: "/pages/cooperation-territoriale/strategie-territoriale"
+      file: content/fr/pages/cooperation-territoriale/strategie-territoriale/_index.html
     - title: Ludification et intelligence collective
       slug: ludification-et-intelligence-collective
       target: "/cooperation-territoriale/ludification/"
@@ -41,9 +41,9 @@ items:
       path: "/pages/cooperation-territoriale/ludification"
       file: content/fr/pages/cooperation-territoriale/ludification/_index.html
     descendants_targets:
-    - "/cooperation-territoriale/facilitation-territoriale/"
     - "/cooperation-territoriale/ingenierie-gouvernance/"
     - "/cooperation-territoriale/ludification/"
+    - "/cooperation-territoriale/strategie-territoriale/"
     path: "/pages/cooperation-territoriale"
     file: content/fr/pages/cooperation-territoriale/_index.html
   - title: Innovation publique
@@ -126,9 +126,9 @@ items:
     file: content/fr/pages/solutions-locales/_index.html
   descendants_targets:
   - "/cooperation-territoriale/"
-  - "/cooperation-territoriale/facilitation-territoriale/"
   - "/cooperation-territoriale/ingenierie-gouvernance/"
   - "/cooperation-territoriale/ludification/"
+  - "/cooperation-territoriale/strategie-territoriale/"
   - "/innovation-publique/"
   - "/innovation-publique/design-innovation/"
   - "/innovation-publique/etudes-et-enquetes/"
