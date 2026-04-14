@@ -22,8 +22,8 @@ items:
       descendants_targets: []
       path: "/pages/cooperation-territoriale/ingenierie-gouvernance"
       file: content/fr/pages/cooperation-territoriale/ingenierie-gouvernance/_index.html
-    - title: Facilitation territoriale et animation de concertations
-      slug: facilitation-territoriale-et-animation-de-concertations
+    - title: Co-construction de stratégies territoriales
+      slug: co-construction-de-strategies-territoriales
       target: "/cooperation-territoriale/strategie-territoriale/"
       kind: page
       new_tab: false
@@ -31,8 +31,8 @@ items:
       descendants_targets: []
       path: "/pages/cooperation-territoriale/strategie-territoriale"
       file: content/fr/pages/cooperation-territoriale/strategie-territoriale/_index.html
-    - title: Ludification et intelligence collective
-      slug: ludification-et-intelligence-collective
+    - title: Ludification, facilitation et intelligence collective
+      slug: ludification-facilitation-et-intelligence-collective
       target: "/cooperation-territoriale/ludification/"
       kind: page
       new_tab: false
