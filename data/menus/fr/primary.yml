@@ -7,8 +7,8 @@ items:
   kind: blank
   new_tab: false
   children:
-  - title: Coopération territoriale
-    slug: cooperation-territoriale
+  - title: "#1 - Coopération territoriale"
+    slug: 1-cooperation-territoriale
     target: "/cooperation-territoriale/"
     kind: page
     new_tab: false
@@ -46,8 +46,8 @@ items:
     - "/cooperation-territoriale/strategie-territoriale/"
     path: "/pages/cooperation-territoriale"
     file: content/fr/pages/cooperation-territoriale/_index.html
-  - title: Innovation publique
-    slug: innovation-publique
+  - title: "#2 - Innovation publique"
+    slug: 2-innovation-publique
     target: "/innovation-publique/"
     kind: page
     new_tab: false
@@ -85,8 +85,8 @@ items:
     - "/innovation-publique/evaluation/"
     path: "/pages/innovation-publique"
     file: content/fr/pages/innovation-publique/_index.html
-  - title: Solutions locales
-    slug: solutions-locales
+  - title: "#3 - Solutions locales"
+    slug: 3-solutions-locales
     target: "/solutions-locales/"
     kind: page
     new_tab: false
