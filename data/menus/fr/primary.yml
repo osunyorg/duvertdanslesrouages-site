@@ -22,8 +22,8 @@ items:
       descendants_targets: []
       path: "/pages/cooperation-territoriale/ingenierie-gouvernance"
       file: content/fr/pages/cooperation-territoriale/ingenierie-gouvernance/_index.html
-    - title: Co-construction de stratégies territoriales
-      slug: co-construction-de-strategies-territoriales
+    - title: Stratégies territoriales et dynamiques multi-acteurs
+      slug: strategies-territoriales-et-dynamiques-multi-acteurs
       target: "/cooperation-territoriale/strategie-territoriale/"
       kind: page
       new_tab: false
