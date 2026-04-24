@@ -15,486 +15,486 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/cci-metropole-de-bourgogne/"
+from = "/cci-metropole-de-bourgogne/index.html"
 to = "/organisations/cci-metropole-de-bourgogne/"
 
 [[redirects]]
-from = "/atis/"
+from = "/atis/index.html"
 to = "/organisations/atis/"
 
 [[redirects]]
-from = "/ingenierie-gouvernance/"
+from = "/ingenierie-gouvernance/index.html"
 to = "/cooperation-territoriale/ingenierie-gouvernance/"
 
 [[redirects]]
-from = "/cooperation-territoriale-1/"
+from = "/cooperation-territoriale-1/index.html"
 to = "/cooperation-territoriale/"
 
 [[redirects]]
-from = "/adi-nouvelle-aquitaine/"
+from = "/adi-nouvelle-aquitaine/index.html"
 to = "/organisations/adi-nouvelle-aquitaine/"
 
 [[redirects]]
-from = "/communaute-dagglomeration-pays-basque/"
+from = "/communaute-dagglomeration-pays-basque/index.html"
 to = "/organisations/communaute-dagglomeration-pays-basque/"
 
 [[redirects]]
-from = "/sytec/"
+from = "/sytec/index.html"
 to = "/organisations/sytec/"
 
 [[redirects]]
-from = "/la-maison-pour-rebondir/"
+from = "/la-maison-pour-rebondir/index.html"
 to = "/organisations/la-maison-pour-rebondir/"
 
 [[redirects]]
-from = "/crdla-transformation-ecologique/"
+from = "/crdla-transformation-ecologique/index.html"
 to = "/organisations/crdla-transformation-ecologique/"
 
 [[redirects]]
-from = "/ademe-centre-val-de-loire/"
+from = "/ademe-centre-val-de-loire/index.html"
 to = "/organisations/ademe-centre-val-de-loire/"
 
 [[redirects]]
-from = "/region-occitanie/"
+from = "/region-occitanie/index.html"
 to = "/organisations/region-occitanie/"
 
 [[redirects]]
-from = "/innovation-publique/design-d-innovation-publique-territoriale/"
+from = "/innovation-publique/design-d-innovation-publique-territoriale/index.html"
 to = "/innovation-publique/design-innovation/"
 
 [[redirects]]
-from = "/cooperation-territoriale-1/ingenierie-gouvernance/"
+from = "/cooperation-territoriale-1/ingenierie-gouvernance/index.html"
 to = "/cooperation-territoriale/ingenierie-gouvernance/"
 
 [[redirects]]
-from = "/programme-rte/"
+from = "/programme-rte/index.html"
 to = "/organisations/programme-rte/"
 
 [[redirects]]
-from = "/soltena/"
+from = "/soltena/index.html"
 to = "/organisations/soltena/"
 
 [[redirects]]
-from = "/region-nouvelle-aquitaine/"
+from = "/region-nouvelle-aquitaine/index.html"
 to = "/organisations/region-nouvelle-aquitaine/"
 
 [[redirects]]
-from = "/irts/"
+from = "/irts/index.html"
 to = "/organisations/irts/"
 
 [[redirects]]
-from = "/cnfpt/"
+from = "/cnfpt/index.html"
 to = "/organisations/cnfpt/"
 
 [[redirects]]
-from = "/cohda/"
+from = "/cohda/index.html"
 to = "/organisations/cohda/"
 
 [[redirects]]
-from = "/bordeaux-metropole/"
+from = "/bordeaux-metropole/index.html"
 to = "/organisations/bordeaux-metropole/"
 
 [[redirects]]
-from = "/cooperation-territoriale-1/ingenierie-gouvernance-1/"
+from = "/cooperation-territoriale-1/ingenierie-gouvernance-1/index.html"
 to = "/cooperation-territoriale/strategie-territoriale/"
 
 [[redirects]]
-from = "/qui-sommes-nous/"
+from = "/qui-sommes-nous/index.html"
 to = "/notre-eco-systeme/"
 
 [[redirects]]
-from = "/organisations/communaute-dagglomeration-de-pau/"
+from = "/organisations/communaute-dagglomeration-de-pau/index.html"
 to = "/organisations/pau-agglomeration/"
 
 [[redirects]]
-from = "/bordeaux-sciences-agro/"
+from = "/bordeaux-sciences-agro/index.html"
 to = "/organisations/bordeaux-sciences-agro/"
 
 [[redirects]]
-from = "/crij-nouvelle-aquitaine/"
+from = "/crij-nouvelle-aquitaine/index.html"
 to = "/organisations/crij-nouvelle-aquitaine/"
 
 [[redirects]]
-from = "/syndicat-mixte-detudes-et-damenagement-de-la-garonne/"
+from = "/syndicat-mixte-detudes-et-damenagement-de-la-garonne/index.html"
 to = "/organisations/syndicat-mixte-detudes-et-damenagement-de-la-garonne/"
 
 [[redirects]]
-from = "/innovation-publique-1/etudes-et-recherche/"
+from = "/innovation-publique-1/etudes-et-recherche/index.html"
 to = "/innovation-publique/etudes-et-enquetes/"
 
 [[redirects]]
-from = "/notre-eco-systeme-cooperatif/"
+from = "/notre-eco-systeme-cooperatif/index.html"
 to = "/notre-eco-systeme/"
 
 [[redirects]]
-from = "/solutions-locales/robustesse-des-operateurs-des-transitions/"
+from = "/solutions-locales/robustesse-des-operateurs-des-transitions/index.html"
 to = "/solutions-locales/robustesse-operateurs/"
 
 [[redirects]]
-from = "/innovation-publique-1/design-d-innovation-publique-territoriale/"
+from = "/innovation-publique-1/design-d-innovation-publique-territoriale/index.html"
 to = "/innovation-publique/design-innovation/"
 
 [[redirects]]
-from = "/grand-angouleme/"
+from = "/grand-angouleme/index.html"
 to = "/organisations/grand-angouleme/"
 
 [[redirects]]
-from = "/rocher-de-palmer/"
+from = "/rocher-de-palmer/index.html"
 to = "/organisations/rocher-de-palmer/"
 
 [[redirects]]
-from = "/lets-food/"
+from = "/lets-food/index.html"
 to = "/organisations/lets-food/"
 
 [[redirects]]
-from = "/cress-nouvelle-aquitaine/"
+from = "/cress-nouvelle-aquitaine/index.html"
 to = "/organisations/cress-nouvelle-aquitaine/"
 
 [[redirects]]
-from = "/nous/"
+from = "/nous/index.html"
 to = "/nous-contacter/"
 
 [[redirects]]
-from = "/atmo/"
+from = "/atmo/index.html"
 to = "/organisations/atmo/"
 
 [[redirects]]
-from = "/le-campement/"
+from = "/le-campement/index.html"
 to = "/organisations/le-campement/"
 
 [[redirects]]
-from = "/pole-territorial-sud-gironde/"
+from = "/pole-territorial-sud-gironde/index.html"
 to = "/organisations/pole-territorial-sud-gironde/"
 
 [[redirects]]
-from = "/narrau/"
+from = "/narrau/index.html"
 to = "/organisations/narrau/"
 
 [[redirects]]
-from = "/cooperation-territoriale/ingenierie-gouvernance-1/"
+from = "/cooperation-territoriale/ingenierie-gouvernance-1/index.html"
 to = "/cooperation-territoriale/strategie-territoriale/"
 
 [[redirects]]
-from = "/mie-anabase/"
+from = "/mie-anabase/index.html"
 to = "/organisations/mie-anabase/"
 
 [[redirects]]
-from = "/amnyos/"
+from = "/amnyos/index.html"
 to = "/organisations/amnyos/"
 
 [[redirects]]
-from = "/jeunesse-habitat-solidaire/"
+from = "/jeunesse-habitat-solidaire/index.html"
 to = "/organisations/jeunesse-habitat-solidaire/"
 
 [[redirects]]
-from = "/grand-figeac/"
+from = "/grand-figeac/index.html"
 to = "/organisations/grand-figeac/"
 
 [[redirects]]
-from = "/pole-dinterpretation-de-la-prehistoire/"
+from = "/pole-dinterpretation-de-la-prehistoire/index.html"
 to = "/organisations/pole-dinterpretation-de-la-prehistoire/"
 
 [[redirects]]
-from = "/guillaume-foucher/"
+from = "/guillaume-foucher/index.html"
 to = "/personnes/guillaume-foucher/"
 
 [[redirects]]
-from = "/la-manuco/"
+from = "/la-manuco/index.html"
 to = "/organisations/la-manuco/"
 
 [[redirects]]
-from = "/organisations/centre-regional-info-jeunesse/"
+from = "/organisations/centre-regional-info-jeunesse/index.html"
 to = "/organisations/crij-nouvelle-aquitaine/"
 
 [[redirects]]
-from = "/communaute-de-communes-caux-austreberthe/"
+from = "/communaute-de-communes-caux-austreberthe/index.html"
 to = "/organisations/communaute-de-communes-caux-austreberthe/"
 
 [[redirects]]
-from = "/organisations/centre-national-de-la-fonction-publique-territoriale/"
+from = "/organisations/centre-national-de-la-fonction-publique-territoriale/index.html"
 to = "/organisations/cnfpt/"
 
 [[redirects]]
-from = "/solagro/"
+from = "/solagro/index.html"
 to = "/organisations/solagro/"
 
 [[redirects]]
-from = "/innovation-publique-1/innovation-publique-2/"
+from = "/innovation-publique-1/innovation-publique-2/index.html"
 to = "/innovation-publique/design-innovation/"
 
 [[redirects]]
-from = "/universite-de-bordeaux/"
+from = "/universite-de-bordeaux/index.html"
 to = "/organisations/universite-de-bordeaux/"
 
 [[redirects]]
-from = "/epidor/"
+from = "/epidor/index.html"
 to = "/organisations/epidor/"
 
 [[redirects]]
-from = "/astredhor-sud-ouest/"
+from = "/astredhor-sud-ouest/index.html"
 to = "/organisations/astredhor-sud-ouest/"
 
 [[redirects]]
-from = "/udaf/"
+from = "/udaf/index.html"
 to = "/organisations/udaf/"
 
 [[redirects]]
-from = "/ville-de-bordeaux/"
+from = "/ville-de-bordeaux/index.html"
 to = "/organisations/ville-de-bordeaux/"
 
 [[redirects]]
-from = "/alec-bordeaux-gironde/"
+from = "/alec-bordeaux-gironde/index.html"
 to = "/organisations/alec-bordeaux-gironde/"
 
 [[redirects]]
-from = "/o-tempora/"
+from = "/o-tempora/index.html"
 to = "/organisations/o-tempora/"
 
 [[redirects]]
-from = "/territoires/"
+from = "/territoires/index.html"
 to = "/cooperation-territoriale/"
 
 [[redirects]]
-from = "/delphine-vandevoorde/"
+from = "/delphine-vandevoorde/index.html"
 to = "/personnes/delphine-vandevoorde/"
 
 [[redirects]]
-from = "/democratie-ouverte/"
+from = "/democratie-ouverte/index.html"
 to = "/organisations/democratie-ouverte/"
 
 [[redirects]]
-from = "/emilie-peytavin/"
+from = "/emilie-peytavin/index.html"
 to = "/personnes/emilie-peytavin/"
 
 [[redirects]]
-from = "/caisse-depargne/"
+from = "/caisse-depargne/index.html"
 to = "/organisations/caisse-depargne/"
 
 [[redirects]]
-from = "/aract-nouvelle-aquitaine/"
+from = "/aract-nouvelle-aquitaine/index.html"
 to = "/organisations/aract-nouvelle-aquitaine/"
 
 [[redirects]]
-from = "/vrac/"
+from = "/vrac/index.html"
 to = "/organisations/vrac/"
 
 [[redirects]]
-from = "/melanie-thuillier/"
+from = "/melanie-thuillier/index.html"
 to = "/personnes/melanie-thuillier/"
 
 [[redirects]]
-from = "/unat-de-bretagne/"
+from = "/unat-de-bretagne/index.html"
 to = "/organisations/unat-de-bretagne/"
 
 [[redirects]]
-from = "/ofb/"
+from = "/ofb/index.html"
 to = "/organisations/ofb/"
 
 [[redirects]]
-from = "/amg/"
+from = "/amg/index.html"
 to = "/organisations/amg/"
 
 [[redirects]]
-from = "/les-premieres-nouvelle-aquitaine/"
+from = "/les-premieres-nouvelle-aquitaine/index.html"
 to = "/organisations/les-premieres-nouvelle-aquitaine/"
 
 [[redirects]]
-from = "/cooperation-territoriale/facilitation-territoriale/"
+from = "/cooperation-territoriale/facilitation-territoriale/index.html"
 to = "/cooperation-territoriale/strategie-territoriale/"
 
 [[redirects]]
-from = "/cooperation-territoriale-1/ingenierie-gouvernance-1-1/"
+from = "/cooperation-territoriale-1/ingenierie-gouvernance-1-1/index.html"
 to = "/cooperation-territoriale/ludification/"
 
 [[redirects]]
-from = "/grand-poitiers/"
+from = "/grand-poitiers/index.html"
 to = "/organisations/grand-poitiers/"
 
 [[redirects]]
-from = "/ifaid/"
+from = "/ifaid/index.html"
 to = "/organisations/ifaid/"
 
 [[redirects]]
-from = "/grand-chatellerault/"
+from = "/grand-chatellerault/index.html"
 to = "/organisations/grand-chatellerault/"
 
 [[redirects]]
-from = "/pluricite/"
+from = "/pluricite/index.html"
 to = "/organisations/pluricite/"
 
 [[redirects]]
-from = "/innovation-publique-1/evaluation-1/"
+from = "/innovation-publique-1/evaluation-1/index.html"
 to = "/cooperation-territoriale/ingenierie-gouvernance/"
 
 [[redirects]]
-from = "/la-traverse/"
+from = "/la-traverse/index.html"
 to = "/organisations/la-traverse/"
 
 [[redirects]]
-from = "/collectif-acclimataction/"
+from = "/collectif-acclimataction/index.html"
 to = "/organisations/collectif-acclimataction/"
 
 [[redirects]]
-from = "/la-ruche/"
+from = "/la-ruche/index.html"
 to = "/organisations/la-ruche/"
 
 [[redirects]]
-from = "/cen-nouvelle-aquitaine/"
+from = "/cen-nouvelle-aquitaine/index.html"
 to = "/organisations/cen-nouvelle-aquitaine/"
 
 [[redirects]]
-from = "/lalternative-urbaine/"
+from = "/lalternative-urbaine/index.html"
 to = "/organisations/lalternative-urbaine/"
 
 [[redirects]]
-from = "/organisations/institut-regional-du-travail-social-nouvelle-aquitaine/"
+from = "/organisations/institut-regional-du-travail-social-nouvelle-aquitaine/index.html"
 to = "/organisations/irts/"
 
 [[redirects]]
-from = "/inae-nouvelle-aquitaine/"
+from = "/inae-nouvelle-aquitaine/index.html"
 to = "/organisations/inae-nouvelle-aquitaine/"
 
 [[redirects]]
-from = "/renaud-pousse/"
+from = "/renaud-pousse/index.html"
 to = "/personnes/renaud-pousse/"
 
 [[redirects]]
-from = "/dla-nouvelle-aquitaine/"
+from = "/dla-nouvelle-aquitaine/index.html"
 to = "/organisations/dla-nouvelle-aquitaine/"
 
 [[redirects]]
-from = "/innovation-publique-1/evaluation/"
+from = "/innovation-publique-1/evaluation/index.html"
 to = "/innovation-publique/evaluation/"
 
 [[redirects]]
-from = "/anais-trousselle/"
+from = "/anais-trousselle/index.html"
 to = "/personnes/anais-trousselle/"
 
 [[redirects]]
-from = "/cooperation-territoriale/facilitation-territoriale-et-animation-de-concertations/"
+from = "/cooperation-territoriale/facilitation-territoriale-et-animation-de-concertations/index.html"
 to = "/cooperation-territoriale/strategie-territoriale/"
 
 [[redirects]]
-from = "/rennes-metropole/"
+from = "/rennes-metropole/index.html"
 to = "/organisations/rennes-metropole/"
 
 [[redirects]]
-from = "/cooperation-territoriale-1-1/"
+from = "/cooperation-territoriale-1-1/index.html"
 to = "/solutions-locales/"
 
 [[redirects]]
-from = "/grenoble-alpes-metropole/"
+from = "/grenoble-alpes-metropole/index.html"
 to = "/organisations/grenoble-alpes-metropole/"
 
 [[redirects]]
-from = "/reseau-des-independants-de-la-musique/"
+from = "/reseau-des-independants-de-la-musique/index.html"
 to = "/organisations/reseau-des-independants-de-la-musique/"
 
 [[redirects]]
-from = "/sostat/"
+from = "/sostat/index.html"
 to = "/organisations/sostat/"
 
 [[redirects]]
-from = "/commune-de-saint-louis-de-montferrand/"
+from = "/commune-de-saint-louis-de-montferrand/index.html"
 to = "/organisations/commune-de-saint-louis-de-montferrand/"
 
 [[redirects]]
-from = "/solutions-locales/transition-ess-1/"
+from = "/solutions-locales/transition-ess-1/index.html"
 to = "/solutions-locales/robustesse-operateurs/"
 
 [[redirects]]
-from = "/etudes-et-enquetes/"
+from = "/etudes-et-enquetes/index.html"
 to = "/innovation-publique/etudes-et-enquetes/"
 
 [[redirects]]
-from = "/rte/"
+from = "/rte/index.html"
 to = "/solutions-locales/responsabilite-territoriale/"
 
 [[redirects]]
-from = "/sciences-po-bordeaux/"
+from = "/sciences-po-bordeaux/index.html"
 to = "/organisations/sciences-po-bordeaux/"
 
 [[redirects]]
-from = "/organisations/chambre-regionale-de-less-nouvelle-aquitaine/"
+from = "/organisations/chambre-regionale-de-less-nouvelle-aquitaine/index.html"
 to = "/organisations/cress-nouvelle-aquitaine/"
 
 [[redirects]]
-from = "/cooperation-territoriale-1/ingenierie-gouvernance-2/"
+from = "/cooperation-territoriale-1/ingenierie-gouvernance-2/index.html"
 to = "/cooperation-territoriale/ludification/"
 
 [[redirects]]
-from = "/cooperation-territoriale-1-1/transition-ess-1/"
+from = "/cooperation-territoriale-1-1/transition-ess-1/index.html"
 to = "/solutions-locales/robustesse-operateurs/"
 
 [[redirects]]
-from = "/pau-agglomeration/"
+from = "/pau-agglomeration/index.html"
 to = "/organisations/pau-agglomeration/"
 
 [[redirects]]
-from = "/cooperation-territoriale-1-1/transition-ess-1-1/"
+from = "/cooperation-territoriale-1-1/transition-ess-1-1/index.html"
 to = "/solutions-locales/responsabilite-territoriale/"
 
 [[redirects]]
-from = "/solutions-locales/transition-ess/"
+from = "/solutions-locales/transition-ess/index.html"
 to = "/solutions-locales/transformation-ess/"
 
 [[redirects]]
-from = "/urscop/"
+from = "/urscop/index.html"
 to = "/organisations/urscop/"
 
 [[redirects]]
-from = "/departement-de-la-gironde/"
+from = "/departement-de-la-gironde/index.html"
 to = "/organisations/departement-de-la-gironde/"
 
 [[redirects]]
-from = "/union-saint-jean/"
+from = "/union-saint-jean/index.html"
 to = "/organisations/union-saint-jean/"
 
 [[redirects]]
-from = "/cress-auvergne-rhone-alpes/"
+from = "/cress-auvergne-rhone-alpes/index.html"
 to = "/organisations/cress-auvergne-rhone-alpes/"
 
 [[redirects]]
-from = "/solutions-locales/transition-ess-1-1/"
+from = "/solutions-locales/transition-ess-1-1/index.html"
 to = "/solutions-locales/responsabilite-territoriale/"
 
 [[redirects]]
-from = "/cooperation-territoriale-1-1/transition-ess/"
+from = "/cooperation-territoriale-1-1/transition-ess/index.html"
 to = "/solutions-locales/transformation-ess/"
 
 [[redirects]]
-from = "/sophie-humbert/"
+from = "/sophie-humbert/index.html"
 to = "/personnes/sophie-humbert/"
 
 [[redirects]]
-from = "/uniformation/"
+from = "/uniformation/index.html"
 to = "/organisations/uniformation/"
 
 [[redirects]]
-from = "/reseau-grape/"
+from = "/reseau-grape/index.html"
 to = "/organisations/reseau-grape/"
 
 [[redirects]]
-from = "/pait-grand-region-grenobloise/"
+from = "/pait-grand-region-grenobloise/index.html"
 to = "/organisations/pait-grand-region-grenobloise/"
 
 [[redirects]]
-from = "/innovation-publique-1/"
+from = "/innovation-publique-1/index.html"
 to = "/innovation-publique/"
 
 [[redirects]]
-from = "/sage-garonne/"
+from = "/sage-garonne/index.html"
 to = "/organisations/sage-garonne/"
 
 [[redirects]]
-from = "/sud-ouest-formation-recherche/"
+from = "/sud-ouest-formation-recherche/index.html"
 to = "/organisations/sud-ouest-formation-recherche/"
 
 [[redirects]]
-from = "/benoit-pous/"
+from = "/benoit-pous/index.html"
 to = "/personnes/benoit-pous/"
 
 [[redirects]]
-from = "/felix-associes/"
+from = "/felix-associes/index.html"
 to = "/organisations/felix-associes/"
 
