@@ -109,8 +109,8 @@ items:
       descendants_targets: []
       path: "/pages/solutions-locales/transformation-ess"
       file: content/fr/pages/solutions-locales/transformation-ess/_index.html
-    - title: Responsabilité territoriale des entreprises
-      slug: responsabilite-territoriale-des-entreprises
+    - title: Responsabilité territoriale des entreprises (RTE)
+      slug: responsabilite-territoriale-des-entreprises-rte
       target: "/solutions-locales/responsabilite-territoriale/"
       kind: page
       new_tab: false
