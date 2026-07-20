@@ -52,8 +52,8 @@ items:
     kind: page
     new_tab: false
     children:
-    - title: Stratégies territoriales et dynamiques multi-acteurs
-      slug: strategies-territoriales-et-dynamiques-multi-acteurs
+    - title: Co-construction de stratégies et plans d'actions
+      slug: co-construction-de-strategies-et-plans-d-actions
       target: "/cooperation-territoriale/strategie-territoriale/"
       kind: page
       new_tab: false
@@ -61,8 +61,8 @@ items:
       descendants_targets: []
       path: "/pages/cooperation-territoriale/strategie-territoriale"
       file: content/fr/pages/cooperation-territoriale/strategie-territoriale/_index.html
-    - title: Ludification, facilitation et intelligence collective
-      slug: ludification-facilitation-et-intelligence-collective
+    - title: Ludification et intelligence collective
+      slug: ludification-et-intelligence-collective
       target: "/cooperation-territoriale/ludification/"
       kind: page
       new_tab: false
