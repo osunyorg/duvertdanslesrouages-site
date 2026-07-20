@@ -7,53 +7,14 @@ items:
   kind: blank
   new_tab: false
   children:
-  - title: "#1 - Coopération territoriale"
-    slug: 1-cooperation-territoriale
-    target: "/cooperation-territoriale/"
-    kind: page
-    new_tab: false
-    children:
-    - title: Ingénierie de la gouvernance et de la coopération
-      slug: ingenierie-de-la-gouvernance-et-de-la-cooperation
-      target: "/cooperation-territoriale/ingenierie-gouvernance/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/cooperation-territoriale/ingenierie-gouvernance"
-      file: content/fr/pages/cooperation-territoriale/ingenierie-gouvernance/_index.html
-    - title: Stratégies territoriales et dynamiques multi-acteurs
-      slug: strategies-territoriales-et-dynamiques-multi-acteurs
-      target: "/cooperation-territoriale/strategie-territoriale/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/cooperation-territoriale/strategie-territoriale"
-      file: content/fr/pages/cooperation-territoriale/strategie-territoriale/_index.html
-    - title: Ludification, facilitation et intelligence collective
-      slug: ludification-facilitation-et-intelligence-collective
-      target: "/cooperation-territoriale/ludification/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/cooperation-territoriale/ludification"
-      file: content/fr/pages/cooperation-territoriale/ludification/_index.html
-    descendants_targets:
-    - "/cooperation-territoriale/ingenierie-gouvernance/"
-    - "/cooperation-territoriale/ludification/"
-    - "/cooperation-territoriale/strategie-territoriale/"
-    path: "/pages/cooperation-territoriale"
-    file: content/fr/pages/cooperation-territoriale/_index.html
-  - title: "#2 - Innovation publique"
-    slug: 2-innovation-publique
+  - title: "#1 - Innovation publique"
+    slug: 1-innovation-publique
     target: "/innovation-publique/"
     kind: page
     new_tab: false
     children:
-    - title: Etudes et enquêtes en sciences sociales
-      slug: etudes-et-enquetes-en-sciences-sociales
+    - title: Etudes et enquêtes sociales
+      slug: etudes-et-enquetes-sociales
       target: "/innovation-publique/etudes-et-enquetes/"
       kind: page
       new_tab: false
@@ -61,8 +22,8 @@ items:
       descendants_targets: []
       path: "/pages/innovation-publique/etudes-et-enquetes"
       file: content/fr/pages/innovation-publique/etudes-et-enquetes/_index.html
-    - title: Design d'innovation publique territoriale
-      slug: design-d-innovation-publique-territoriale
+    - title: Design de politiques publiques
+      slug: design-de-politiques-publiques
       target: "/innovation-publique/design-innovation/"
       kind: page
       new_tab: false
@@ -85,30 +46,51 @@ items:
     - "/innovation-publique/evaluation/"
     path: "/pages/innovation-publique"
     file: content/fr/pages/innovation-publique/_index.html
+  - title: "#2 - Coopération territoriale"
+    slug: 2-cooperation-territoriale
+    target: "/cooperation-territoriale/"
+    kind: page
+    new_tab: false
+    children:
+    - title: Stratégies territoriales et dynamiques multi-acteurs
+      slug: strategies-territoriales-et-dynamiques-multi-acteurs
+      target: "/cooperation-territoriale/strategie-territoriale/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/cooperation-territoriale/strategie-territoriale"
+      file: content/fr/pages/cooperation-territoriale/strategie-territoriale/_index.html
+    - title: Ludification, facilitation et intelligence collective
+      slug: ludification-facilitation-et-intelligence-collective
+      target: "/cooperation-territoriale/ludification/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/cooperation-territoriale/ludification"
+      file: content/fr/pages/cooperation-territoriale/ludification/_index.html
+    - title: Ingénierie de la gouvernance et de la coopération
+      slug: ingenierie-de-la-gouvernance-et-de-la-cooperation
+      target: "/cooperation-territoriale/ingenierie-gouvernance/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/cooperation-territoriale/ingenierie-gouvernance"
+      file: content/fr/pages/cooperation-territoriale/ingenierie-gouvernance/_index.html
+    descendants_targets:
+    - "/cooperation-territoriale/ingenierie-gouvernance/"
+    - "/cooperation-territoriale/ludification/"
+    - "/cooperation-territoriale/strategie-territoriale/"
+    path: "/pages/cooperation-territoriale"
+    file: content/fr/pages/cooperation-territoriale/_index.html
   - title: "#3 - Solutions locales"
     slug: 3-solutions-locales
     target: "/solutions-locales/"
     kind: page
     new_tab: false
     children:
-    - title: Responsabilité territoriale des entreprises
-      slug: responsabilite-territoriale-des-entreprises
-      target: "/solutions-locales/responsabilite-territoriale/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/solutions-locales/responsabilite-territoriale"
-      file: content/fr/pages/solutions-locales/responsabilite-territoriale/_index.html
-    - title: Transformation écologique de l'ESS
-      slug: transformation-ecologique-de-l-ess
-      target: "/solutions-locales/transformation-ess/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/solutions-locales/transformation-ess"
-      file: content/fr/pages/solutions-locales/transformation-ess/_index.html
     - title: Robustesse des opérateurs des transitions
       slug: robustesse-des-operateurs-des-transitions
       target: "/solutions-locales/robustesse-operateurs/"
@@ -118,6 +100,24 @@ items:
       descendants_targets: []
       path: "/pages/solutions-locales/robustesse-operateurs"
       file: content/fr/pages/solutions-locales/robustesse-operateurs/_index.html
+    - title: Transformation écologique de l'ESS
+      slug: transformation-ecologique-de-l-ess
+      target: "/solutions-locales/transformation-ess/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/solutions-locales/transformation-ess"
+      file: content/fr/pages/solutions-locales/transformation-ess/_index.html
+    - title: Responsabilité territoriale des entreprises
+      slug: responsabilite-territoriale-des-entreprises
+      target: "/solutions-locales/responsabilite-territoriale/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/solutions-locales/responsabilite-territoriale"
+      file: content/fr/pages/solutions-locales/responsabilite-territoriale/_index.html
     descendants_targets:
     - "/solutions-locales/responsabilite-territoriale/"
     - "/solutions-locales/robustesse-operateurs/"
