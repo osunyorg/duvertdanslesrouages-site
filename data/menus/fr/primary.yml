@@ -72,16 +72,16 @@ items:
       file: content/fr/pages/cooperation-territoriale/ludification/_index.html
     - title: Ingénierie de la gouvernance et de la coopération
       slug: ingenierie-de-la-gouvernance-et-de-la-cooperation
-      target: "/cooperation-territoriale/ingenierie-gouvernance/"
+      target: "/cooperation-territoriale/mediation-et-gouvernance/"
       kind: page
       new_tab: false
       children: []
       descendants_targets: []
-      path: "/pages/cooperation-territoriale/ingenierie-gouvernance"
-      file: content/fr/pages/cooperation-territoriale/ingenierie-gouvernance/_index.html
+      path: "/pages/cooperation-territoriale/mediation-et-gouvernance"
+      file: content/fr/pages/cooperation-territoriale/mediation-et-gouvernance/_index.html
     descendants_targets:
-    - "/cooperation-territoriale/ingenierie-gouvernance/"
     - "/cooperation-territoriale/ludification/"
+    - "/cooperation-territoriale/mediation-et-gouvernance/"
     - "/cooperation-territoriale/strategie-territoriale/"
     path: "/pages/cooperation-territoriale"
     file: content/fr/pages/cooperation-territoriale/_index.html
@@ -126,8 +126,8 @@ items:
     file: content/fr/pages/solutions-locales/_index.html
   descendants_targets:
   - "/cooperation-territoriale/"
-  - "/cooperation-territoriale/ingenierie-gouvernance/"
   - "/cooperation-territoriale/ludification/"
+  - "/cooperation-territoriale/mediation-et-gouvernance/"
   - "/cooperation-territoriale/strategie-territoriale/"
   - "/innovation-publique/"
   - "/innovation-publique/design-innovation/"

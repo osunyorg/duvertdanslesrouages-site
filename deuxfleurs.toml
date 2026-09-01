@@ -24,7 +24,7 @@ to = "/organisations/atis/"
 
 [[redirects]]
 from = "/ingenierie-gouvernance/index.html"
-to = "/cooperation-territoriale/ingenierie-gouvernance/"
+to = "/cooperation-territoriale/mediation-et-gouvernance/"
 
 [[redirects]]
 from = "/cooperation-territoriale-1/index.html"
@@ -64,7 +64,7 @@ to = "/innovation-publique/design-innovation/"
 
 [[redirects]]
 from = "/cooperation-territoriale-1/ingenierie-gouvernance/index.html"
-to = "/cooperation-territoriale/ingenierie-gouvernance/"
+to = "/cooperation-territoriale/mediation-et-gouvernance/"
 
 [[redirects]]
 from = "/programme-rte/index.html"
@@ -324,7 +324,7 @@ to = "/organisations/pluricite/"
 
 [[redirects]]
 from = "/innovation-publique-1/evaluation-1/index.html"
-to = "/cooperation-territoriale/ingenierie-gouvernance/"
+to = "/cooperation-territoriale/mediation-et-gouvernance/"
 
 [[redirects]]
 from = "/la-traverse/index.html"
@@ -333,6 +333,10 @@ to = "/organisations/la-traverse/"
 [[redirects]]
 from = "/collectif-acclimataction/index.html"
 to = "/organisations/collectif-acclimataction/"
+
+[[redirects]]
+from = "/cooperation-territoriale/ingenierie-gouvernance/index.html"
+to = "/cooperation-territoriale/mediation-et-gouvernance/"
 
 [[redirects]]
 from = "/la-ruche/index.html"
