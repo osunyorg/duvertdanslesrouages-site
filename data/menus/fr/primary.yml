@@ -52,6 +52,15 @@ items:
     kind: page
     new_tab: false
     children:
+    - title: Médiation environnementale et ingénierie de la gouvernance
+      slug: mediation-environnementale-et-ingenierie-de-la-gouvernance
+      target: "/cooperation-territoriale/mediation-et-gouvernance/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/cooperation-territoriale/mediation-et-gouvernance"
+      file: content/fr/pages/cooperation-territoriale/mediation-et-gouvernance/_index.html
     - title: Co-construction de stratégies et plans d'actions
       slug: co-construction-de-strategies-et-plans-d-actions
       target: "/cooperation-territoriale/strategie-territoriale/"
@@ -70,15 +79,6 @@ items:
       descendants_targets: []
       path: "/pages/cooperation-territoriale/ludification"
       file: content/fr/pages/cooperation-territoriale/ludification/_index.html
-    - title: Ingénierie de la gouvernance et de la coopération
-      slug: ingenierie-de-la-gouvernance-et-de-la-cooperation
-      target: "/cooperation-territoriale/mediation-et-gouvernance/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/cooperation-territoriale/mediation-et-gouvernance"
-      file: content/fr/pages/cooperation-territoriale/mediation-et-gouvernance/_index.html
     descendants_targets:
     - "/cooperation-territoriale/ludification/"
     - "/cooperation-territoriale/mediation-et-gouvernance/"
