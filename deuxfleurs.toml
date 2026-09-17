@@ -31,10 +31,6 @@ from = "/cooperation-territoriale-1/index.html"
 to = "/cooperation-territoriale/"
 
 [[redirects]]
-from = "/_files/ugd/581a4b_89fd2019cfd2457c8b6ea0e2fd264e73.pdf/index.html"
-to = "/vegetal-local/"
-
-[[redirects]]
 from = "/adi-nouvelle-aquitaine/index.html"
 to = "/organisations/adi-nouvelle-aquitaine/"
 
@@ -321,6 +317,10 @@ to = "/organisations/ifaid/"
 [[redirects]]
 from = "/grand-chatellerault/index.html"
 to = "/organisations/grand-chatellerault/"
+
+[[redirects]]
+from = "/_files/ugd/581a4b_89fd2019cfd2457c8b6ea0e2fd264e73.pdf/index.html"
+to = "/vegetal-local/"
 
 [[redirects]]
 from = "/pluricite/index.html"
