@@ -215,6 +215,10 @@ from = "/organisations/centre-national-de-la-fonction-publique-territoriale/inde
 to = "/organisations/cnfpt/"
 
 [[redirects]]
+from = "/_files/ugd/581a4b_89fd2019cfd2457c8b6ea0e2fd264e73.pdf/index.html"
+to = "/fichiers/"
+
+[[redirects]]
 from = "/solagro/index.html"
 to = "/organisations/solagro/"
 
@@ -257,10 +261,6 @@ to = "/cooperation-territoriale/"
 [[redirects]]
 from = "/delphine-vandevoorde/index.html"
 to = "/personnes/delphine-vandevoorde/"
-
-[[redirects]]
-from = "/https:/www.duvertdanslesrouages.fr/_files/ugd/581a4b_89fd2019cfd2457c8b6ea0e2fd264e73.pdf/index.html"
-to = "/fichiers/"
 
 [[redirects]]
 from = "/democratie-ouverte/index.html"
