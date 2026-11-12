@@ -85,58 +85,58 @@ items:
     - "/strategie-territoriale-1/strategie-territoriale/"
     path: "/pages/strategie-territoriale-1"
     file: content/fr/pages/strategie-territoriale-1/_index.html
-  - title: "#3 - Solutions locales"
-    slug: 3-solutions-locales
-    target: "/solutions-locales/"
+  - title: "#3 - Transformations économiques"
+    slug: 3-transformations-economiques
+    target: "/transformations-economiques/"
     kind: page
     new_tab: false
     children:
     - title: Robustesse des opérateurs des transitions
       slug: robustesse-des-operateurs-des-transitions
-      target: "/solutions-locales/robustesse-operateurs/"
+      target: "/transformations-economiques/robustesse-operateurs/"
       kind: page
       new_tab: false
       children: []
       descendants_targets: []
-      path: "/pages/solutions-locales/robustesse-operateurs"
-      file: content/fr/pages/solutions-locales/robustesse-operateurs/_index.html
+      path: "/pages/transformations-economiques/robustesse-operateurs"
+      file: content/fr/pages/transformations-economiques/robustesse-operateurs/_index.html
     - title: Transformation écologique de l'ESS
       slug: transformation-ecologique-de-l-ess
-      target: "/solutions-locales/transformation-ess/"
+      target: "/transformations-economiques/transformation-ess/"
       kind: page
       new_tab: false
       children: []
       descendants_targets: []
-      path: "/pages/solutions-locales/transformation-ess"
-      file: content/fr/pages/solutions-locales/transformation-ess/_index.html
+      path: "/pages/transformations-economiques/transformation-ess"
+      file: content/fr/pages/transformations-economiques/transformation-ess/_index.html
     - title: Responsabilité territoriale des entreprises (RTE)
       slug: responsabilite-territoriale-des-entreprises-rte
-      target: "/solutions-locales/responsabilite-territoriale/"
+      target: "/transformations-economiques/responsabilite-territoriale/"
       kind: page
       new_tab: false
       children: []
       descendants_targets: []
-      path: "/pages/solutions-locales/responsabilite-territoriale"
-      file: content/fr/pages/solutions-locales/responsabilite-territoriale/_index.html
+      path: "/pages/transformations-economiques/responsabilite-territoriale"
+      file: content/fr/pages/transformations-economiques/responsabilite-territoriale/_index.html
     descendants_targets:
-    - "/solutions-locales/responsabilite-territoriale/"
-    - "/solutions-locales/robustesse-operateurs/"
-    - "/solutions-locales/transformation-ess/"
-    path: "/pages/solutions-locales"
-    file: content/fr/pages/solutions-locales/_index.html
+    - "/transformations-economiques/responsabilite-territoriale/"
+    - "/transformations-economiques/robustesse-operateurs/"
+    - "/transformations-economiques/transformation-ess/"
+    path: "/pages/transformations-economiques"
+    file: content/fr/pages/transformations-economiques/_index.html
   descendants_targets:
   - "/innovation-publique/"
   - "/innovation-publique/design-innovation/"
   - "/innovation-publique/etudes-et-enquetes/"
   - "/innovation-publique/evaluation/"
-  - "/solutions-locales/"
-  - "/solutions-locales/responsabilite-territoriale/"
-  - "/solutions-locales/robustesse-operateurs/"
-  - "/solutions-locales/transformation-ess/"
   - "/strategie-territoriale-1/"
   - "/strategie-territoriale-1/ingenierie-gouvernance/"
   - "/strategie-territoriale-1/ludification/"
   - "/strategie-territoriale-1/strategie-territoriale/"
+  - "/transformations-economiques/"
+  - "/transformations-economiques/responsabilite-territoriale/"
+  - "/transformations-economiques/robustesse-operateurs/"
+  - "/transformations-economiques/transformation-ess/"
 - title: Notre éco-système
   slug: notre-eco-systeme
   target: "/notre-eco-systeme/"

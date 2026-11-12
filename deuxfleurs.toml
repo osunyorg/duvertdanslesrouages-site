@@ -103,6 +103,10 @@ from = "/cooperation-territoriale-1/ingenierie-gouvernance-1/index.html"
 to = "/strategie-territoriale-1/strategie-territoriale/"
 
 [[redirects]]
+from = "/solutions-locales/responsabilite-territoriale/index.html"
+to = "/transformations-economiques/responsabilite-territoriale/"
+
+[[redirects]]
 from = "/qui-sommes-nous/index.html"
 to = "/notre-eco-systeme/"
 
@@ -132,7 +136,7 @@ to = "/notre-eco-systeme/"
 
 [[redirects]]
 from = "/solutions-locales/robustesse-des-operateurs-des-transitions/index.html"
-to = "/solutions-locales/robustesse-operateurs/"
+to = "/transformations-economiques/robustesse-operateurs/"
 
 [[redirects]]
 from = "/innovation-publique-1/design-d-innovation-publique-territoriale/index.html"
@@ -165,6 +169,10 @@ to = "/organisations/atmo/"
 [[redirects]]
 from = "/le-campement/index.html"
 to = "/organisations/le-campement/"
+
+[[redirects]]
+from = "/solutions-locales/index.html"
+to = "/transformations-economiques/"
 
 [[redirects]]
 from = "/pole-territorial-sud-gironde/index.html"
@@ -225,6 +233,10 @@ to = "/organisations/communaute-de-communes-caux-austreberthe/"
 [[redirects]]
 from = "/organisations/centre-national-de-la-fonction-publique-territoriale/index.html"
 to = "/organisations/cnfpt/"
+
+[[redirects]]
+from = "/solutions-locales/transformation-ess/index.html"
+to = "/transformations-economiques/transformation-ess/"
 
 [[redirects]]
 from = "/solagro/index.html"
@@ -404,11 +416,15 @@ to = "/organisations/rennes-metropole/"
 
 [[redirects]]
 from = "/cooperation-territoriale-1-1/index.html"
-to = "/solutions-locales/"
+to = "/transformations-economiques/"
 
 [[redirects]]
 from = "/grenoble-alpes-metropole/index.html"
 to = "/organisations/grenoble-alpes-metropole/"
+
+[[redirects]]
+from = "/solutions-locales/robustesse-operateurs/index.html"
+to = "/transformations-economiques/robustesse-operateurs/"
 
 [[redirects]]
 from = "/reseau-des-independants-de-la-musique/index.html"
@@ -424,7 +440,7 @@ to = "/organisations/commune-de-saint-louis-de-montferrand/"
 
 [[redirects]]
 from = "/solutions-locales/transition-ess-1/index.html"
-to = "/solutions-locales/robustesse-operateurs/"
+to = "/transformations-economiques/robustesse-operateurs/"
 
 [[redirects]]
 from = "/etudes-et-enquetes/index.html"
@@ -432,7 +448,7 @@ to = "/innovation-publique/etudes-et-enquetes/"
 
 [[redirects]]
 from = "/rte/index.html"
-to = "/solutions-locales/responsabilite-territoriale/"
+to = "/transformations-economiques/responsabilite-territoriale/"
 
 [[redirects]]
 from = "/sciences-po-bordeaux/index.html"
@@ -448,7 +464,7 @@ to = "/strategie-territoriale-1/ludification/"
 
 [[redirects]]
 from = "/cooperation-territoriale-1-1/transition-ess-1/index.html"
-to = "/solutions-locales/robustesse-operateurs/"
+to = "/transformations-economiques/robustesse-operateurs/"
 
 [[redirects]]
 from = "/pau-agglomeration/index.html"
@@ -456,11 +472,11 @@ to = "/organisations/pau-agglomeration/"
 
 [[redirects]]
 from = "/cooperation-territoriale-1-1/transition-ess-1-1/index.html"
-to = "/solutions-locales/responsabilite-territoriale/"
+to = "/transformations-economiques/responsabilite-territoriale/"
 
 [[redirects]]
 from = "/solutions-locales/transition-ess/index.html"
-to = "/solutions-locales/transformation-ess/"
+to = "/transformations-economiques/transformation-ess/"
 
 [[redirects]]
 from = "/urscop/index.html"
@@ -480,11 +496,11 @@ to = "/organisations/cress-auvergne-rhone-alpes/"
 
 [[redirects]]
 from = "/solutions-locales/transition-ess-1-1/index.html"
-to = "/solutions-locales/responsabilite-territoriale/"
+to = "/transformations-economiques/responsabilite-territoriale/"
 
 [[redirects]]
 from = "/cooperation-territoriale-1-1/transition-ess/index.html"
-to = "/solutions-locales/transformation-ess/"
+to = "/transformations-economiques/transformation-ess/"
 
 [[redirects]]
 from = "/sophie-humbert/index.html"
