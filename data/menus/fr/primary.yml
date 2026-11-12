@@ -46,8 +46,8 @@ items:
     - "/innovation-publique/evaluation/"
     path: "/pages/innovation-publique"
     file: content/fr/pages/innovation-publique/_index.html
-  - title: "#2 - Stratégie territoriale"
-    slug: 2-strategie-territoriale
+  - title: "#2 - Stratégies territoriales"
+    slug: 2-strategies-territoriales
     target: "/strategie-territoriale-1/"
     kind: page
     new_tab: false
