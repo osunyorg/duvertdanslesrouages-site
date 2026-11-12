@@ -52,8 +52,8 @@ items:
     kind: page
     new_tab: false
     children:
-    - title: Médiation environnementale et ingénierie de la gouvernance
-      slug: mediation-environnementale-et-ingenierie-de-la-gouvernance
+    - title: Ingénierie de la gouvernance et de la coopération
+      slug: ingenierie-de-la-gouvernance-et-de-la-cooperation
       target: "/strategie-territoriale-1/ingenierie-gouvernance/"
       kind: page
       new_tab: false
